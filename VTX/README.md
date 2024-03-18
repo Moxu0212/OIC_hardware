@@ -1,0 +1,1 @@
+基于Sigmastar SSC338Q主控设计的openipc天空端。
