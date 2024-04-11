@@ -1,1 +1,1 @@
-基于Sigmastar SSC338Q主控设计的openipc天空端。
+基于Sigmastar SSC30KX主控设计的openipc天空端,初步验证V1.0存在较大设计缺陷，不建议的打板调试。
